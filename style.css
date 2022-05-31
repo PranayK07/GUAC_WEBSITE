@@ -1,0 +1,29 @@
+/* html, h1 {
+  background-color: #dbffb5;
+} */
+
+/*
+Accent Color: rgb(185, 242, 223)
+*/
+.mycard1 {
+  background-color: rgb(185, 242, 223);
+  box-shadow: 2px 2px 2px black;
+  transition: transform .2s;
+  margin: 20px;
+}
+
+.mycard1:hover {
+  transform: scale(1.25);
+}
+
+.mycardimg1 {
+  border-radius: 5px;
+}
+
+.myheroimg {
+  height: 500px;
+  width: 100%;
+  border-bottom: 5px solid rgb(185, 242, 223);
+}
+
+
