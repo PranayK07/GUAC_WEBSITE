@@ -117,3 +117,8 @@ footer {
 .weewoo1 {
   margin-bottom: 300px;
 }
+
+.sketchfab-embed-wrapper {
+  align-items: center;
+  margin-left: 30%;
+}
